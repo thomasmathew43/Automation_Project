@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="9" parallel="tests" name="Failed suite [MainFunctionalities]" guice-stage="DEVELOPMENT">
+  <test thread-count="9" parallel="tests" name="MainCart(failed)">
+    <classes>
+      <class name="Indproject.MainFunctionalities">
+        <methods>
+          <include name="paym"/>
+          <include name="cartpa"/>
+          <include name="addres"/>
+        </methods>
+      </class> <!-- Indproject.MainFunctionalities -->
+    </classes>
+  </test> <!-- MainCart(failed) -->
+</suite> <!-- Failed suite [MainFunctionalities] -->

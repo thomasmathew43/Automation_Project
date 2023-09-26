@@ -1,0 +1,37 @@
+Functional Defect
+Defect 1 (Missing Functional Defect)
+
+In Registration they didn't mention any Gender type for select:
+
+        In User Registration with Book cart application they didn't mention any Gender type to select. suppose user want to select gender type there is no options to select.user not able to select the gender.
+        generally in all applications 4 type of gender commonly described but bookscart application has not given any gender options for select only gender is missing.
+        Not only that in user registrations they didn't provide much options to select or fill they provided only few options like name,email and password submit.there is not having much options in user registration.
+
+Functional Defect
+Defect 2 (Missing Functional Defect)
+	Not only that in user registrations they didn't provide much options to select or fill they provided only few options like name,email and password submit.
+	but there is not having much options in user registration.
+
+Defect 3 (Wrong Functional Defect)
+search functionality not working properly
+
+      user entry with wrong number or wrong books name and apply for search. user get same page for again.wrong input from user there is no show error or anything simply user get same page for again.    
+ 
+Functional Defect
+Defect 4 (Missing Functional Defect)
+	In product page products are not displaying properly for every refresh the products will get change dynamically not in alphabahitical order. 
+	And also there is no options for selecting the quantity. for example user want to purchase the same book for 3 times
+	there is no options to add or decrease the quantity. (It's very needed functionality for every application).
+	
+Functional Defect
+Defect 5 (Defect)
+	Suppose user want the particular books if user apply for the filter it wont work properly the products will change dynamically.
+	
+	
+	
+	
+	
+	
+	
+	
+	
